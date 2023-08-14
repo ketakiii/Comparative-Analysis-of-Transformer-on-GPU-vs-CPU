@@ -16,4 +16,3 @@ pyCUDA: gives us complete access to CUDA C/C++ API in Python code. We would stil
 Numba: this method does not expose the entire CUDA C/C++ API, yet allows acceleration with very less modifications while writing the code in Python itself.
 
 
-https://arxiv.org/abs/2308.06017
