@@ -11,3 +11,6 @@ There are multiple ways of working with
 CUDA: CUDA C/C++: a most common and flexible way to use CUDA while writing code in C/C++ 
 pyCUDA: gives us complete access to CUDA C/C++ API in Python code. We would still have to write the C/C++ code in Python. 
 Numba: this method does not expose the entire CUDA C/C++ API, yet allows acceleration with very less modifications while writing the code in Python itself.
+
+
+https://arxiv.org/abs/2308.06017
